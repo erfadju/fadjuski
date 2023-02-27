@@ -1,0 +1,58 @@
+.qRadioHItem {
+	display: inline-block;
+    margin-right: 10px;
+    max-width: 250px;
+    margin-left: 28px;
+    vertical-align: top;
+    text-indent: -26px;
+}
+
+.qRadioVItem {
+	display: block;
+    margin-right: 10px;
+    max-width: 650px;
+    margin-left: 28px;
+    text-indent: -26px;
+}
+
+.question {
+	position: relative;
+}
+
+.qRButton {
+	margin-right: 8px;
+}
+
+#questionMenu {
+	display: none;
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	display: none;
+    color: #444;
+    position: absolute;
+    z-index: 10;
+    border: 1px solid #CCC;
+    padding: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+	background-color: rgba(240, 240, 240, 1);
+	width: 130px;
+}
+
+.menuItem {
+	position: relative;
+	cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+	margin-bottom: 4px;
+	z-index: 10;
+}
+
+.menuItem:hover {
+	background-color: rgb(220, 220, 220);
+}

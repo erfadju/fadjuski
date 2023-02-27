@@ -1,0 +1,32 @@
+{
+  "name": "fadjuski",
+  "version": "1.0.0",
+  "description": "Fadjuski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/erfadju/fadjuski.git"
+  },
+  "author": "E. Fadjukoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erfadju/fadjuski/issues"
+  },
+  "homepage": "https://github.com/erfadju/fadjuski#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "express-handlebars": "^6.0.7",
+    "express-session": "^1.17.3",
+    "mongodb": "^5.1.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "string": "^3.3.3",
+    "util": "^0.12.5"
+  }
+}

@@ -1,0 +1,2080 @@
+@font-face {
+    font-family: 'press_startregular';
+    src: url('/fonts/prstart-webfont.woff2') format('woff2'),
+         url('/fonts/prstart-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'press_start_kregular';
+    src: url('/fonts/prstartk-webfont.woff2') format('woff2'),
+         url('/fonts/prstartk-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'press_start_2pregular';
+    src: url('/fonts/pressstart2p-regular-webfont.woff2') format('woff2'),
+         url('/fonts/pressstart2p-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'latoblack';
+    src: url('/fonts/lato-black-webfont.woff2') format('woff2'),
+         url('/fonts/lato-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latoblack_italic';
+    src: url('/fonts/lato-blackitalic-webfont.woff2') format('woff2'),
+         url('/fonts/lato-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latobold';
+    src: url('/fonts/lato-bold-webfont.woff2') format('woff2'),
+         url('/fonts/lato-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latobold_italic';
+    src: url('/fonts/lato-bolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/lato-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latoitalic';
+    src: url('/fonts/lato-italic-webfont.woff2') format('woff2'),
+         url('/fonts/lato-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latolight';
+    src: url('/fonts/lato-light-webfont.woff2') format('woff2'),
+         url('/fonts/lato-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latolight_italic';
+    src: url('/fonts/lato-lightitalic-webfont.woff2') format('woff2'),
+         url('/fonts/lato-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('/fonts/lato-regular-webfont.woff2') format('woff2'),
+         url('/fonts/lato-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latohairline';
+    src: url('/fonts/lato-thin-webfont.woff2') format('woff2'),
+         url('/fonts/lato-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'latohairline_italic';
+    src: url('/fonts/lato-thinitalic-webfont.woff2') format('woff2'),
+         url('/fonts/lato-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'asap_condensedbold';
+    src: url('/fonts/asapcondensed-bold-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condensedbold_italic';
+    src: url('/fonts/asapcondensed-bolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condenseditalic';
+    src: url('/fonts/asapcondensed-italic-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condensedmedium';
+    src: url('/fonts/asapcondensed-medium-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condensedmedium_italic';
+    src: url('/fonts/asapcondensed-mediumitalic-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condensedregular';
+    src: url('/fonts/asapcondensed-regular-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condensedsemibold';
+    src: url('/fonts/asapcondensed-semibold-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'asap_condensedsemibold_italic';
+    src: url('/fonts/asapcondensed-semibolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/asapcondensed-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'tinosbold';
+    src: url('/fonts/tinos-bold-webfont.woff2') format('woff2'),
+         url('/fonts/tinos-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'tinosbold_italic';
+    src: url('/fonts/tinos-bolditalic-webfont.woff2') format('woff2'),
+         url('/fonts/tinos-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'tinositalic';
+    src: url('/fonts/tinos-italic-webfont.woff2') format('woff2'),
+         url('/fonts/tinos-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'tinosregular';
+    src: url('/fonts/tinos-regular-webfont.woff2') format('woff2'),
+         url('/fonts/tinos-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kalambold';
+    src: url('/fonts/kalam-bold-webfont.woff2') format('woff2'),
+         url('/fonts/kalam-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kalamlight';
+    src: url('/fonts/kalam-light-webfont.woff2') format('woff2'),
+         url('/fonts/kalam-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'kalamregular';
+    src: url('/fonts/kalam-regular-webfont.woff2') format('woff2'),
+         url('/fonts/kalam-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@-webkit-keyframes colorchange {
+    0% {
+      color: blue;
+    }
+    10% {
+      color: #8e44ad;
+    }
+    20% {
+      color: #1abc9c;
+    }
+    30% {
+      color: #d35400;
+    }
+    40% {
+      color: blue;
+    }
+    50% {
+      color: #34495e;
+    }
+    60% {
+      color: blue;
+    }
+    70% {
+      color: #2980b9;
+    }
+    80% {
+      color: #f1c40f;
+    }
+    90% {
+      color: #2980b9;
+    }
+    100% {
+      color: pink;
+    }
+  }
+
+:root {
+    --select-border: #777;
+    --select-focus: blue;
+    --select-arrow: var(--select-border);
+  }
+
+body {
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+p {
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 4px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#loadingImg {
+    display: none;
+    z-index: 201;
+    position: fixed;
+    top: 45%;
+    left: 45%;
+}
+
+#contentBlock {
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 640px;
+    height: 480px;
+    box-sizing: border-box;
+}
+
+#settingsDlg {
+    display:none;
+}
+
+.widgetRow {
+    position: relative;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 400px;
+    background-color: #444;
+    height: 75px;
+    vertical-align: top;
+    margin-right: 10px;
+    padding: 5px;
+    cursor: pointer;
+	box-shadow: 2px 2px #555;
+}
+
+.widgetRow:hover {
+    box-shadow: none;
+	top: 2px;
+	left: 2px;
+}
+
+.wrDisabled {
+    color:#777;
+}
+
+.wrselected {
+    border: 1px solid cyan;
+}
+
+.btnDisabled {
+    color: #777;
+}
+
+.nwName {
+    font-weight: bold;
+}
+
+.nwDescription {
+    font-size: smaller;
+    width: 75%;
+    height: 75%;
+    overflow: hidden;
+}
+
+#widgetList {
+    max-height: 400px;
+    overflow-y: auto;
+    position: relative;
+}
+
+
+.wlRow {
+    margin-bottom: 2px;
+    display: flex;
+    cursor: pointer;
+}
+
+.wlRow:hover {
+    color: mediumturquoise;
+    background-color: #444;
+}
+
+.wlrIntend {
+    margin-left: 36px;
+}
+
+.wlGrIcon {
+    color: gold;
+    margin-right: 5px;
+}
+
+.wlCheck {
+    width: 4%;
+}
+
+.wlEye {
+    width: 20px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.dbEye {
+    margin-left: 0px;
+    display: inline-block;
+    border: 1px outset #777;
+    padding: 2px 4px 1px 4px;
+}
+
+.wlEyeM {
+    width: 20px
+    margin-left: 5px;
+    position: absolute;
+    right: 5px;
+}
+
+.wlMove {
+    width: 20px;
+    margin-left: 5px;
+}
+
+.wlName {
+    width: 65%;
+}
+
+input:focus{
+    outline: none;
+}
+
+code { 
+    background: hsl(220, 80%, 90%); 
+}
+
+pre {
+    white-space: pre-wrap;
+    background: hsl(30,80%,90%);
+}
+
+.codeBlock {
+    word-wrap: revert;
+    background-color: #444;
+    color: yellow;
+    white-space: pre;
+    width: 98%;
+    overflow-x: scroll;
+}
+
+.codeSmall {
+    word-wrap: revert;
+    background-color: #444;
+    color: yellow;
+    width: 98%;
+    overflow-x: auto;
+    padding: 6px;
+}
+
+.elementContainer {
+    position: absolute;
+    scrollbar-width:none;
+    cursor: move;
+    width:max-content;
+    padding: 1px;
+}
+
+.groupContainer {
+    position: absolute;
+    scrollbar-width:none;
+    cursor: move;
+    width: fit-content;
+    padding: 1px;
+    min-width: 55px;
+}
+
+.elSelected {
+    border: 2px dashed lime !important;
+}
+
+.elDelete {
+    border: 2px dashed red !important;
+    background-color: rgba(255,0,0,0.5) !important;
+}
+
+.elHover {
+    border: 1px dashed #DDD;
+}
+
+
+.weIcons {
+    position: absolute;
+    top: -12px;
+    left: 2px;
+    z-index: 2;
+}
+
+.weIcon {
+    padding: 0 3px 0 3px;
+    display: inline-block;
+    cursor: pointer;
+    color: #BBB;
+    font-size: 18px;
+    text-shadow: rgb(17, 17, 17) 1px 1px 0px;
+}
+
+.weIconGreen {
+    color: rgba(0,255,0,0.4);
+}
+
+.weIconRed {
+    color: indianred;
+}
+
+.showIcon {
+    cursor: pointer;
+}
+
+.btnGreen {
+    color: limegreen;
+}
+
+.btnRed {
+    color: red;
+}
+
+.noMove {
+    cursor: default;
+}
+
+.weOnHover {
+    visibility: hidden;
+}
+
+.eHandles {
+    display: none;
+}
+
+.eh {
+    position: absolute;
+    width:6px;
+    height: 6px;
+    background-color: #DDD;
+}
+
+.eshv {
+    position: absolute;
+    width:5px;
+    height: 5px;
+    background-color: #FFF;
+    cursor: ew-resize;
+    border: solid 1px #000;
+}
+
+.eshh {
+    position: absolute;
+    width:5px;
+    height: 5px;
+    background-color: #FFF;
+    cursor: ns-resize;
+    border: solid 1px #000;
+}
+
+.ehNW {
+    top: -4px;
+    left: -4px;
+    cursor: nw-resize;
+}
+
+.ehNE {
+    top: -4px;
+    right: -4px;
+    cursor: ne-resize;
+}
+.ehSE {
+    bottom: -4px;
+    right: -4px;
+    cursor: nw-resize;
+}
+.ehSW {
+    bottom: -4px;
+    left: -4px;
+    cursor: ne-resize;
+}
+
+.ehT {
+    top: -4px;
+    left: 50%;
+}
+.ehR {
+    top: 50%;
+    right: -4px;
+}
+.ehB {
+    bottom: -4px;
+    left: 50%;
+}
+.ehL {
+    bottom: 50%;
+    left: -4px;
+}
+
+.listContent {
+    position: relative;
+    overflow-y: auto;
+    scrollbar-width:none;
+    padding: 3px;
+}
+
+.listContent::-webkit-scrollbar {
+    width: 0px;
+}
+    
+.listContent::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 0px rgba(0, 0, 0, 0.3);
+}
+    
+.listContent::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+
+.lcTight {
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.imageDiv {
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#content {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.SLContent {
+    transform: translate(-27.708%, -27.685%) scale(0.445);
+}
+
+
+#configBlock {
+    position: fixed;
+    display:none;
+    top: 2px;
+    right: 512px;
+    width: 270px;
+    font-size: 13px;
+    color: #444;
+    background-color:antiquewhite;
+    z-index: 97;
+}
+
+#configCloseBtn {
+    position: absolute;
+    top: -2px;
+    right: 3px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.panelCloseBtn {
+    position: absolute;
+    top: -2px;
+    right: 3px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.controlBlock {
+    position: fixed;
+    top: 2px;
+    right: 2px;
+    width: 268px;
+    font-size: 12px;
+    color: #444;
+    background-color: rgb(190,190,190);
+    z-index: 96;
+}
+
+#menuBlock {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 370px;
+    height: 18px;
+    padding: 4px 4px 2px 4px;
+    cursor: move;
+    z-index: 998;
+}
+
+#ytLocalPlayerBlock {
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    font-size: 12px;
+    background-color: rgb(190,190,190);
+    z-index: 99;
+}
+
+#twLocalPlayerBlock {
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    font-size: 12px;
+    background-color: rgb(190,190,190);
+    z-index: 99;
+}
+
+#ytLocalOpenBtn {
+    display: inline-block;
+    position: absolute;
+    right: 3px;
+    color: red;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+.twlcLocalButtons {
+    display: inline-block;
+    padding: 5px;
+    background-color: darkgreen;
+}
+
+.twlcClipButtons {
+    display: inline-block;
+    padding: 5px;
+    margin-left: 20px;
+    background-color: #444;
+}
+
+.twlcRemoteButtons {
+    display: inline-block;
+    padding: 5px;
+    background-color: #7A0013;
+    position: absolute;
+    right: 0;
+}
+
+.twclError {
+    color:red;
+}
+
+#twlpTitle {
+    max-width: 98%;
+    overflow: hidden;
+    padding: 5px;
+}
+
+
+.menuSmall {
+    display: none;
+    color: #FFF;
+    position: absolute;
+    top: 15px;
+    right: 0px;
+    z-index: 999;
+    /* border-radius: 5px; */
+    border: 1px solid #999;
+    padding: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-weight: bold;
+    font-size: 10pt;
+    background-color: #444;
+}
+
+
+.menuItem {
+	position: relative;
+	cursor: pointer;
+    padding-left: 23px;
+    padding-right: 21px;
+    border-radius: 5px;
+	margin-bottom: 4px;
+	z-index: 10;
+}
+
+.menuItem:hover {
+	background-color: #777;
+}
+
+#noShowIcon {
+    position: absolute;
+    display: none;
+    color: rgba(255,0,0,0.5);
+    font-size: 48px;
+    width: 100%;
+    text-align: center;
+    z-index: -1;
+}
+
+#modeidPanel {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    background-color: #444;
+    border: solid 1px #999;
+    width: 350px;
+    padding: 5px;
+    top: 10px;
+    left: 5px;
+    color:#FFF;
+}
+
+
+.modeNick {
+    display: inline-block;
+    width: 8.5em;
+    cursor: default;
+}
+
+.timerPauseBtn {
+    display: inline-block;
+    padding: 3px;
+    cursor: pointer;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.timerPlayBtn {
+    display: none;
+    padding: 3px;
+    cursor: pointer;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+
+.noShow {
+    background-image: url(/pics/noshow.png);
+}
+
+.onAir {
+    background-image: url(/pics/onair.png);
+}
+
+.helpIcon {
+    display: inline-block;
+    color:deepskyblue;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.chWigetName {
+    display: inline-block;
+    width: 300px;
+}
+
+.contentWH {
+    background-color: rgba(142, 142, 142, 0.275);
+    color: white;
+    padding: 4px;
+    position: absolute;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.contHeight {
+    right: -26px;
+    bottom: 5px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+.contWidth {
+    right: 5px;
+    bottom: -26px;
+}
+
+.fontStyleBtn {
+    padding: 2px 4px 1px 4px;
+    cursor: pointer;
+    border: 1px outset #777;
+    background-color: #555;
+    margin-left: 3px;
+    color: #aaa;
+}
+
+.fontStyleBtnDown {
+    padding: 2px 4px 1px 4px;
+    cursor: pointer;
+    border: 1px inset #777;
+    background-color: #555;
+    margin-left: 3px;
+    color: #FFF;
+}
+
+.videoContainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.fsGreen {
+	color: green;
+}
+
+.fsOrange {
+	color: orange;
+}
+
+.fsRed {
+	color: red;
+}
+
+.playerBtn {
+    display: inline-block;
+    padding: 2px 4px 1px 4px;
+    cursor: pointer;
+    border: 1px outset #777;
+    background-color: #555;
+    margin-left: 1px;
+    color: #FFF;
+}
+
+.playerBtnDisabled {
+    color: #777;
+}
+
+.basicBtn {
+    display: inline-block;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid #888;
+    background-color: darkcyan;
+    color:#000;
+    cursor: pointer;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.basicBtn:hover {
+    background-color: cadetblue;
+}
+
+.miniBtn {
+    padding: 3px;
+    display: inline-block;
+    border-left: 1px solid #666;
+    border-top: 1px solid #666;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #222;
+    background-color: #444;
+    border-radius: 3px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.miniBtn:hover {
+    background-color: #555;
+}
+
+#infoRow {
+    display:none;
+}
+
+.textboxMedium {
+    width: 292px;
+    height: 60px;
+}
+
+.textboxLarge {
+    width: 400px;
+    height: 150px;
+    font-size: 14px !important;
+}
+
+.optionRow {
+    padding: 2px 8px 5px 8px;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+    font-size: 13px;
+}
+
+.panelDark {
+    background-color: #333 !important;
+    color:white !important;
+}
+
+.editDark {
+    background-color: #444 !important;
+    color: white !important;
+}
+
+.orDark {
+    border-bottom: 1px solid #555
+}
+
+.panelHeader {
+    background-color: #222;
+    padding: 5px;
+}
+
+.listHeader {
+    background-color: #222;
+    border-bottom: 1px solid #555;
+    padding-top: 4px;
+    font-style: italic;
+}
+
+.optionLabel {
+    font-style: italic;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+
+.optionValue {
+    font-size: 14px;
+    position: relative;
+}
+
+.optionLabelTight {
+    display: inline-block;
+    width: 160px;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.optionValueTight {
+    display: inline-block;
+    font-size: 14px;
+}
+
+.textMedium {
+    width: 130px;
+}
+
+.numberTiny {
+    width: 35px;
+}
+
+.numberSmall {
+    width: 55px;
+}
+
+.numberMedium {
+    width: 70px;
+}
+
+#topRightButtons {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.trBtn {
+    padding: 2px 6px 0 6px;
+    float: right;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.iconBtn {
+    padding: 2px 6px 0 6px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#lockRed {
+    color: red;
+    display:none;
+}
+
+#lockGreen {
+    color: green;
+}
+
+#lockText {
+    display:none;
+    color:red;
+}
+
+#aliveBtn {
+    position:absolute;
+    display:none;
+    top: 0;
+    right: 30px;
+    padding: 4px;
+}
+
+.iconSelectBlock {
+    display: none;
+    background-color: #222;
+    border: 1px solid #666;
+    position: absolute;
+    left: 140px;
+    bottom: -2px;
+    padding: 2px;
+}
+
+.iconSelectItem {
+    cursor: pointer;
+    padding: 2px;
+    font-size: 16px;
+}
+
+.iconSelectItem:hover {
+    color: white;
+    background-color: #666;
+}
+
+.customCb > span {   
+    display: inline-flex;
+    cursor: pointer;
+    position: relative;
+}
+
+.customCb > span {
+    color: #555;
+   
+}
+
+.customCb > input {
+    height: 15px;
+    width: 15px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    border: 1px solid #888;
+    border-radius: 3px;
+    outline: none;
+    transition-duration: 0.3s;
+    background-color: #555;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+
+.customCb > input:checked {
+    border: 1px solid #41B883;
+    background-color: #555;
+}
+
+.customCb > input:checked + span:before {
+    content: '\2714';
+    color: #41B883;
+    position: absolute;
+    left: -1.0rem;
+    top: -0.8rem;
+}
+
+.customCb > input:active {
+    border: 2px solid #34495E;
+}
+
+
+
+select {
+    appearance: none;
+    background-color: #444;
+    border: none;
+    padding: 0 1em 0 0;
+    margin: 0;
+    width: auto;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: inherit;
+    line-height: inherit;
+    color:white;
+    font-size: 13px;
+    width:197px;
+  }
+
+  select:active {
+    border:none;
+  }
+
+  .customSelect {
+    display: inline-block;
+    width: 200px;
+    border: 1px solid var(--select-border);
+    border-radius: 0.25em;
+    padding: 0.15em 0.3em;
+    font-size: 1rem;
+    cursor: pointer;
+    line-height: 1;
+    background-color: #444;
+    background-image: linear-gradient(to top, #555, #444 33%);
+  }
+
+a:-webkit-any-link {
+    color:cyan;
+    text-decoration: none;
+    font-size: smaller;
+}
+
+.weathFlag {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 0.2em;
+}
+
+.weathLocation {
+    display: inline-block;
+    max-width: 150px;
+    margin-left:0.2em;
+    vertical-align: middle;
+}
+
+.weathTemp {
+    display: inline-block;
+    margin-left:0.5em;
+    vertical-align: middle;
+}
+
+.weathIcon {
+    display: inline-block;
+    vertical-align:middle;
+    height: 2em;
+}
+
+.weathTime {
+    display: inline-block;
+    margin-left:0.5em;
+    vertical-align: middle;
+    margin-right: 0.2em;
+}
+
+#ytSearchPanel {
+    position:absolute;
+    left: 43px;
+    top: 1px;
+    width: 516px;
+    z-index: 98;
+}
+
+#ytSearchResults {
+    max-height: 750px;
+    overflow: auto;
+}
+
+#ytCloseBtn {
+    position: absolute;
+    top: -2px;
+    right: 3px;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.ytActivePlaylist {
+    display: inline-block;
+    margin-left: 2px;
+    font-weight: bold;
+    margin-top: 17px;
+    margin-bottom: 5px;
+}
+
+
+.twActivePlaylist {
+    display: inline-block;
+    margin-left: 2px;
+    font-weight: bold;
+    margin-top: 17px;
+    margin-bottom: 5px;
+}
+
+.contToNextDiv {
+    font-size: 11px;
+    position: absolute;
+    bottom: 2px;
+    left: 363px;
+}
+
+.loopDiv {
+    font-size: 11px;
+    position: absolute;
+    bottom: 20px;
+    left: 363px;
+}
+
+#infoBox {
+    display:none;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 2px solid #888;
+    background-color: darkturquoise;
+    width: 350px;
+    z-index: 1000;
+    padding: 10px;
+    text-align: center;
+    top: 0;
+    border-radius: 7px;
+    box-shadow: 2px 3px #555;
+}
+
+.playerPropIcons {
+    position: absolute;
+    bottom: 5px;
+    right: 12px;
+}
+
+.threeDBtn {
+    display: inline-block;
+    width: 19px;
+    height: 19px;
+    border-left: 2px solid #AAA;
+    border-top: 2px solid #AAA;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    background-color: #444;
+    cursor: pointer;
+}
+
+.tdbDown {
+    border-left: 2px solid #000;
+    border-top: 2px solid #000;
+    border-right: 2px solid #AAA;
+    border-bottom: 2px solid #AAA;
+}
+
+.videoTimeDiv {
+    display: inline-block;
+    width: 133px;
+    margin-left:20px;
+    font-size: 13px;
+}
+
+#ytAutoplayBtn {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+}
+
+#twAutoplayBtn {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+}
+
+.ytDiv {
+    background-image: url(pics/youtube-text.png);
+    background-size: 10%;
+}
+
+#ytCurrentPosLabel {
+    display: none;
+    position: absolute;
+    top: 25px;
+    left: 100px;
+    background-color: #333;
+    padding: 1px 3px 1px 3px;
+}
+
+#twCurrentPosLabel {
+    display: none;
+    position: absolute;
+    top: 25px;
+    left: 100px;
+    background-color: #333;
+    padding: 1px 3px 1px 3px;
+}
+
+.dashboard {
+    position: fixed;
+    top: 0;
+    left: 100px;
+    font-size: 10px;
+    background-color: #555;
+    z-index: 201;
+}
+
+.twDashboard {
+    left: 210px; 
+}
+
+.dbTitle {
+    cursor: move;
+    color: white;
+    padding: 0 4px 2px 4px;
+    font-weight: bold;
+}
+
+.dbtRed {
+    background-color: red;
+}
+
+#ytPlaylist {
+    font-size: 12px;
+}
+
+#twPlaylist {
+    font-size: 12px;
+}
+
+#ytPlaylistItems {
+    height: 536px;
+    overflow-y: auto;
+}
+
+#twPlaylistItems {
+    height: 536px;
+    overflow-y: auto;
+}
+
+.twListDiv {
+    margin-bottom: 7px;
+    position: relative;
+    padding-top: 4px;
+    height: 53px;
+    font-size: 12px;
+}
+
+.ytListDiv {
+    margin-bottom: 7px;
+    position: relative;
+    padding-top: 4px;
+    height: 53px;
+    font-size: 12px;
+}
+
+.ytlHover {
+    background-color: #444;
+}
+
+
+.ytlHandle {
+    position: absolute;
+    display: none;
+    top: -7px;
+    left: 240px;
+    cursor: ns-resize;
+    color: #888;
+    letter-spacing: -1px;
+}
+
+.ytPlName {
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+.ytListCurrent {
+    background-color: lightslategrey;
+}
+
+.ytListPlaying {
+    background-color: #7A0013;
+}
+
+.ytlUrl {
+    display: inline-block;
+    color: #bbb;
+    font-size: 11px;
+    position: absolute;
+    bottom: 6px;
+    left: 2px;
+}
+
+.ytlNick {
+    display: inline-block;
+    font-size: 11px;
+    position: absolute;
+    top: 19px;
+    width: 100px;
+    overflow: hidden;
+    right: 5px;
+    text-align: right;
+}
+
+.ytlTitle {
+    width: 350px;
+    display: inline-block;
+    height: 32px;
+    overflow: hidden;
+}
+
+.ytlHasClips {
+    color: mediumspringgreen;
+}
+
+.ytlNotAccepted {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    right: 70px;
+    color:red;
+    cursor: pointer;
+}
+
+.ytlAccepted {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    right: 70px;
+    color:green;
+    cursor: pointer;
+}
+
+.ytlClipsIcon {
+    display: inline-block;
+    position: absolute;
+    color: mediumseagreen;
+    top: 1px;
+    right: 61px;
+    cursor: pointer;
+}
+
+.ytlLength {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    right: 5px;
+}
+
+.ytlCreated {
+    position: absolute;
+    left: 130px;
+    bottom: 6px;
+    font-size: 11px;
+}
+
+.ytlIcons {
+    display: inline-block;
+    position: absolute;
+    bottom: 4px;
+    right: 5px;
+    display: none;
+}
+
+.ytlBtn {
+    padding: 0 3px 0 3px;
+    cursor: pointer;
+    font-size: 11px;
+    display: inline-block;
+    border: 1px solid rgba(0,0,0,0);
+}
+
+.ytlBtn:hover {
+    border: 1px solid #999;
+}
+
+
+#ytliSpacer {
+    position: relative;
+    height: 72px;
+}
+
+.ytlBtnBigger {
+    font-size: 15px;
+}
+
+.ytlCurrPosTip {
+    display: none;
+    background-color: forestgreen;
+    color: white;
+    z-index: 5;
+    position: absolute;
+    bottom: 4px;
+    font-weight: bold;
+    padding: 0 2px;
+    left: 221px;
+}
+
+.ytlRemainingTime {
+    display: none;
+    background-color: forestgreen;
+    color: white;
+    z-index: 5;
+    position: absolute;
+    right: 4px;
+    bottom: 24px;
+    font-weight: bold;
+    padding: 0 2px;
+}
+
+.ytGIcons {
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+}
+
+.ytlpb100 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #555;
+}
+
+.ytlpbx {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 4px;
+    background-color: green;
+}
+
+.ytListDivG {
+    padding-bottom: 5px;
+    position: relative;
+    padding-top: 4px;
+    width: 490px;
+    height: 86px;
+    font-size: 12px;
+    border-bottom: 3px groove #666;
+}
+
+.ytlGrey {
+    opacity: 0.4;
+}
+
+.twCLipListItem {
+    cursor: pointer;
+}
+
+.twCLipListItem:hover {
+    background-color: #666;
+}
+
+.twclSelected {
+    background-color: darkslategrey;
+}
+
+.twclCheck {
+    cursor: pointer;
+}
+
+.twclSel {
+    display: none;
+}
+
+.twclInOut {
+    cursor: pointer;
+}
+
+.svgIcon {
+    height: 18px;
+    position: relative;
+    top: 4px;
+}
+
+.svgIconSmall {
+    height: 15px;
+    position: relative;
+    top: 3px;
+}
+
+.ytListDivG:hover {
+    background-color: #444;
+}
+
+.ytGThumbnailSmall {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.ytGTitle {
+    position: absolute;
+    top: 4px;
+    left: 130px;
+}
+
+.ytGUrl {
+    position: absolute;
+    bottom: 6px;
+    left: 130px;
+}
+
+.ytGCreated {
+    position: absolute;
+    left: 130px;
+    bottom: 22px;
+}
+
+.ytGType {
+    position: absolute;
+    left: 230px;
+    bottom: 22px;
+    color: greenyellow;
+}
+
+.ytGRegionRestrictionIcon {
+    position: absolute;
+    top: 68px;
+    left: 132px;
+    color: red;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.ytRI {
+    left: auto;
+    right: 103px;
+    top: 0;
+}
+
+.ytGAgeRestrictionIcon {
+    position: absolute;
+    top: 68px;
+    left: 156px;
+    color: red;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.ytNotEmbeddableIcon {
+    position: absolute;
+    bottom: 18px;
+    left: 190px;
+    color: red;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.ytnei {
+    top: 2px;
+    right: 89px;
+    left: auto;
+    font-size: 13px;
+}
+
+.ytGLength {
+    position: absolute;
+    bottom: 2px;
+    left: 69px;
+    padding: 3px 3px 3px 3px;
+    background-color: #111;
+}
+
+.ssrDiv {
+    display:inline-block;
+}
+
+@media only screen and (max-width: 500px)  {
+
+
+    #contentBlock {
+        position: absolute;
+        top: 30px;
+        left:0;
+        transform: translate(-25%,-25%) scale(0.5);
+    }
+
+    .controlBlock {
+        top:50px;
+        left: 0;
+        right: auto;
+        width: 100% !important;
+        box-sizing: border-box;
+    }
+
+    #configBlock {
+        bottom:0;
+        top:auto;
+        display: none;
+        visibility: hidden;
+    }
+
+    #menuBlock {
+        width: 130px;
+        height: 27px;
+        box-sizing: border-box;
+        left: auto !important;
+        right: 0;
+    }
+
+
+
+    #ownNick {
+        display:none;
+    }
+
+    .trBtn {
+        padding: 2px 11px 0 6px;
+    }
+
+    .customSelect {
+        width: 187px;
+    }
+
+    select {
+        width: 190px;
+    }
+
+    #aliveBtn {
+        display:none;
+        z-index:10;
+        right:15px;
+        top:24px;
+    }
+
+    #refreshBtn {
+        display: none;
+    }
+
+    #configBtn {
+        display: none;
+    }
+
+    #newWidgetBtn {
+        display: none;
+    }
+
+    .dashboard {
+        transform: translate(158%, -232.8438%) scale(6);
+    }
+
+    #ytDashboard {
+        left: 145px;
+    }
+
+    .twDashboard {
+        left: 693px;
+    }
+
+    #twLocalPlayerBlock {
+        left: 0 !important;
+        top: 51px !important;
+        width: 100%;
+    }
+
+    #ytLocalPlayerBlock {
+        left: 0 !important;
+        top: 51px !important;
+        width: 100%;
+    }
+
+    #ssrDiv {
+        display: none;
+    }
+
+    #ytPlaylistItems {
+        height:400px
+    }
+
+    #twPlaylistItems {
+        height:400px
+    }
+
+    .videoTimeDiv {
+        position: absolute;
+        top: 5px;
+        left: 149px;
+    }
+
+    .ytGTitle {
+        height: 48px;
+        overflow: hidden;
+    }
+
+    #twSeekEdit {
+        width: 55px;
+        position: absolute;
+        top: -19px;
+        left: 167px;
+    }
+
+    #twSeekBtn {
+        position: absolute;
+        top: -20px;
+        left: 233px;
+    }
+
+    #ytSeekEdit {
+        width: 55px;
+        position: absolute;
+        top: -19px;
+        left: 167px;
+    }
+
+    #ytSeekBtn {
+        position: absolute;
+        top: -20px;
+        left: 233px;
+    }
+
+    #ytSearchPanel {
+        left: 0px !important;
+        top: 21px !important;
+        width: 100%;
+    }
+
+    .ssrDiv {
+        display:none;
+    }
+
+    .ytListDivG {
+        width:350px;
+        height: 107px;
+    }
+
+    .ytGCreated {
+        bottom: 47px;
+    }
+
+    .ytGUrl {
+        bottom: 31px;
+    }
+
+    .ytGType {
+        bottom: 48px;
+    }
+
+    .ytGIcons {
+        left: auto;
+        right: 0;
+    }
+
+    .ytlBtnBigger {
+        font-size: 20px;
+    }
+
+    #twAutoplayBtn {
+        top: -19px;
+    }
+
+    #ytVideoTime {
+        font-size: 11px;
+        width: 110px;
+        display: inline-block;
+    }
+
+    #videoPlaylistEdit {
+        width: 305px;
+        margin-top: 10px;
+    }
+
+    .ytlTitle {
+        width:260px;
+        height: 32px;
+    }
+
+    .ytlUrl {
+        top: 38px;
+    }
+
+    .ytlCreated {
+        left: 70px;
+        bottom: 20px;
+        top: auto;
+    }
+
+    .ytlIcons {
+        bottom: 0px;
+    }
+
+    .ytlBtn {
+        padding: 0 14px 0 12px;
+    }
+
+    .ytlRemainingTime {
+        bottom: 37px;
+    }
+    
+    .ytListDiv {
+        height: 71px;
+    }
+
+    .twListDiv {
+        height: 67px;
+    }
+
+    .wlEye {
+        width: 20px;
+        margin-left: 5px;
+        margin-right: 25px;
+    }
+
+    .wlEyeM {
+        display: none;
+    }
+
+    .wlMove {
+        display: none;
+    }
+
+    .contentWH {
+        display: none;
+    }
+
+    .panelHeader {
+        height:44px;
+    }
+
+    #listEditBlock {
+        max-height: 250px;
+        overflow: auto;
+    }
+
+
+}
